@@ -42,7 +42,8 @@ public class soru02 {
             System.out.print(i + "+");
 
         }
-
+        // '\n' komutu bir alt satıra geçme işlemi için kullanılır.
+        
         System.out.println("\nsayılar toplamı: " + toplam);
 
     }
