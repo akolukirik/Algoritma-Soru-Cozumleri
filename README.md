@@ -1,5 +1,6 @@
-# algoritma
-Merhaba arkadaşlar 
+# Algoritma Programlamaya Giriş Örnek Sorular
+
+Merhaba arkadaşlar hoşgelniz.
 
 Yukarda bulunan project kısmında algoritmaya giriş derslerinde sizlere yardımcı olmak amacıyla bir çok soru ve bu soruların java dilinde çözümlerini ve yazılan kodların çalışma mantığını sizlere paylaşıyor olacağım. 
 
