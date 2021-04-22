@@ -1,4 +1,4 @@
-# Algoritma Programlamaya Giriş Örnek Sorular
+# Algoritma Programlamaya Giriş Örnek Sorular #Java
 
 Merhaba arkadaşlar hoşgelniz.
 
